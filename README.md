@@ -16,9 +16,10 @@ Um breve repositório de objetivos pra vida.
 
 ## atual: maio de 2016
 
-- [ ] atualizar CV e portfólio
-- [ ] enviar CV para 10 empresas estrangeiras (0/10)
-- [ ] enviar CV para 10 emrpesas nacionais (0/10)
+- [x] atualizar CV
+- [ ] e portfólio
+- [ ] enviar CV para 10 empresas estrangeiras (1/10)
+- [ ] enviar CV para 10 emrpesas nacionais (2/10)
 - [ ] correr 20 vezes (0/20)
 - [ ] renovar películas das janelas do apartamento
 
