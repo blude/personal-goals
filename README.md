@@ -13,11 +13,13 @@ Um breve repositório de objetivos pra vida.
 - [ ] ler 8 livros (0/8)
 - [ ] acampar 6 vezes (2/6)
 - [ ] tocar 12 músicas no violão (0/12)
+- [ ] desenvolver/participar de projeto sobre dados abertos
 
 ## atual: maio de 2016
 
 - [x] atualizar CV
 - [ ] e portfólio
+- [ ] escrever sobre Economaze no blog
 - [ ] enviar CV para 10 empresas estrangeiras (1/10)
 - [ ] enviar CV para 10 emrpesas nacionais (2/10)
 - [ ] correr 20 vezes (0/20)
