@@ -11,7 +11,7 @@ Um breve repositório de objetivos pra vida.
 ## objetivos para 2016
 
 - [ ] ler 8 livros (0/8)
-- [ ] acampar 3 vezes (0/3)
+- [ ] acampar 5 vezes (2/3)
 - [ ] tocar 12 músicas no violão (0/12)
 
 ## atual: maio de 2016
