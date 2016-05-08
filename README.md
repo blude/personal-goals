@@ -36,5 +36,5 @@ Um breve repositório de objetivos pra vida.
 
 - [construir](futuro/construir.md)
 - projetar
-- aprender
+- [aprender](futuro/aprender.md)
 - escrever
