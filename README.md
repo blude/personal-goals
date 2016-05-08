@@ -34,7 +34,7 @@ Um breve repositório de objetivos pra vida.
 
 ### futuro: indeterminado
 
-- construir
+- [construir](futuro/construir.md)
 - projetar
 - aprender
 - escrever
